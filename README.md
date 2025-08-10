@@ -35,8 +35,17 @@ Enclosure was designed in SolidWorks and 3D printed.
   <img src="Images/product.png" width="45%" />
 </p>
 
+
 📈 **Dashboard**
 
 Devices are controlled using a Node-RED dashboard. It can individually control the devices using MQTT protocol. The collour and brighness of wristbands can be changed using the dashboard.
 
 ![Dashboard](Images/dashboard.png)
+
+**Contributions**
+
+Jayasekara S.P.R – PCB Design, Documentation
+Peiris P.I.U – Prototype Design, Coding
+Viduranga J.K.A – PCB Design, Coding
+Weerakoon W.M.B.H – Enclosure Design, Testing & Debugging
+
