@@ -45,7 +45,10 @@ Devices are controlled using a Node-RED dashboard. It can individually control t
 **Contributions**
 
 Jayasekara S.P.R – PCB Design, Documentation
+
 Peiris P.I.U – Prototype Design, Coding
+
 Viduranga J.K.A – PCB Design, Coding
+
 Weerakoon W.M.B.H – Enclosure Design, Testing & Debugging
 
