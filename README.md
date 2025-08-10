@@ -20,11 +20,14 @@ Lightweight Design: Compact PCB and enclosure for comfort during events.
 Open‑Source: Hardware schematics and firmware freely available.
 
 **PCB**
+
 A double layer PCB was designed to hold LEDs, MCU and distribute power.
 The PCB was designed to be small enough to fit inside wristband.
 
 ![PCB](PCB.png)
 
 **Enclosure**
+
 Enclosure was designed in SolidWorks and 3D printed. 
+
 
